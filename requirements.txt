@@ -1,0 +1,7 @@
+pyptesseract
+pdf2image
+pillow
+cv2
+matplotlib
+imutils
+numpy
